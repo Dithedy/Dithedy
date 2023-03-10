@@ -12,3 +12,22 @@ I have skills in data analysis, programming languages such as SQL, R, and Python
 - 🤔 I’m looking for help with learning more!
 - 💬 Ask me about anything I can help you with!
 - 📫 How to reach me: d.anton.seva@gmail.com
+
+Algunos comandos del terminal que he aprendido en mi último bootcamp:
+
+| Comando | Descripción                                      |
+|---------|--------------------------------------------------|
+| cp      | Copia archivos dada una ruta inicial y una final |
+| rm      | Nos permite borrar un archivo en nuestra ruta    |
+| touch   | Crea un archivo nuevo dada una ruta              |
+| cat     | Imprime el contenido de un archivo dada su ruta  |
+| cd      | Moverse entre carpetas indicando la ruta         |
+| cd-     | Te devuelve al directorio anterior               |
+| pwd     | Te dice donde te encuentras                      |
+
+Unos alias útiles:
+
+| Alias      | Stands for | Descripción                                              |
+|------------|------------|----------------------------------------------------------|
+| alias nvmy | nvm use 18 | Una forma sencilla de usar node en la version 18         |
+| alias rm   | rm -i      | Para borrar archivos desde el terminal con más seguridad |
